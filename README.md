@@ -4,7 +4,7 @@ Contao + 0.1 Theme + Isotope = Great Shop :)
 
 Support repository for 0.1 Isotope Bundle  
 
-![alt 0.1 Isotope Bundle](https://contao-themes.net/assets/images/f/0.1_Isotope_00-964697c5.png)
+![alt 0.1 Isotope Bundle](https://contao-themes.net/assets/images/5/0.1_Isotope_00-57e3b5b2.jpg)
 
 Homepage: https://contao-themes.net/theme-detail/zeroone-isotope.html  
 Docs: https://pdir.de/docs/de/contao/themes/zeroone/installation/isotope-bundle/  
